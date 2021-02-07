@@ -1,0 +1,23 @@
+{
+  "name": "ajs_1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/222Alexa/ajs_1.git"
+  },
+  "author": "222Alexa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/222Alexa/ajs_1/issues"
+  },
+  "homepage": "https://github.com/222Alexa/ajs_1#readme",
+  "dependencies": {
+    "@222alexa/ajs": "^1.0.0"
+  }
+}
